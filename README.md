@@ -2,22 +2,24 @@
 
 # Hi there 👋
 
-My name is Anne. I am a frontend developer
+My name is Anne.
 
-- 🌱 I’m currently learning WEB3 and Solidity
+I am a frontend developer:
 
 - 👯 I’m looking to collaborate on frontend projects, WEB2 anytime and WEB3 as soon as I'm able
 
-- 💬 Ask me about your business and its strategy, and I might help you gain clarity through our conversation... Who knows?
+- 🌱 I’m currently learning WEB3 and Solidity
 
 - 🤔 I’m looking for help with articulating my super power
+
+- 💬 Ask me about your business and its strategy, and I might help you gain clarity through our conversation... Who knows?
 
 - ⚡ Fun fact: This is the second time I am a developer in this lifetime
 
 <a name="once-used"></a>
 
 <!-- # All emojis to choose from
-🛠️🎯🤪
+🛠️🎯🤪😋
 🎯🙄😏
 📖🎓🚧🏗️🦉🧩
 🐒🤔🎱🛼🛤️🛣️🪂🧭🧪⚗️🧲🔮
@@ -65,7 +67,7 @@ My name is Anne. I am a frontend developer
 
 &nbsp;
 
-## 😏 What I know and used in the past but I am less using right now
+## 😏 What I used in the past but am less using right now
 
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />][anchor_top]
 &nbsp;
@@ -82,7 +84,7 @@ My name is Anne. I am a frontend developer
 
 &nbsp;
 
-## 🚧 What I am currently learning / improving on / testing
+## 😋 What I am currently learning
 
 [<img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=002FA7&" alt="Solidity logo" title="Solidity" height="25" />][anchor_past]
 &nbsp;
@@ -91,7 +93,7 @@ My name is Anne. I am a frontend developer
 
 &nbsp;
 
-## 🤔 Where I might go in the future
+## 🤔 What I might take a look at in the future
 
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][anchor_learning]
 &nbsp;
