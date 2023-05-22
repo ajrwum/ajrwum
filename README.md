@@ -25,11 +25,7 @@ My name is Anne. I am a frontend developer
 
 &nbsp;
 
-&nbsp;
-
 ## 🤪 Technologies and tools I'm crazy about
-
-#
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][anchor_top]
 &nbsp;
@@ -69,11 +65,7 @@ My name is Anne. I am a frontend developer
 
 &nbsp;
 
-&nbsp;
-
 ## 😏 What I know and used in the past but I am less using right now
-
-#
 
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />][anchor_top]
 &nbsp;
@@ -90,11 +82,7 @@ My name is Anne. I am a frontend developer
 
 &nbsp;
 
-&nbsp;
-
 ## 🚧 What I am currently learning / improving on / testing
-
-#
 
 [<img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=002FA7&" alt="Solidity logo" title="Solidity" height="25" />][anchor_past]
 &nbsp;
@@ -103,11 +91,7 @@ My name is Anne. I am a frontend developer
 
 &nbsp;
 
-&nbsp;
-
 ## 🤔 Where I might go in the future
-
-#
 
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][anchor_learning]
 &nbsp;
