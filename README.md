@@ -90,7 +90,7 @@ I am a frontend developer:
 &nbsp;
 [<img src="https://img.shields.io/badge/Ethers.js-282C34?logo=ethersdotjs&logoColor=24339B" alt="Ethers.js logo" title="Ethers.js" height="25" />][anchor_past]
 &nbsp;
-[<img src="https://img.shields.io/badge/Hardhat-282C34?logo=hardhat&logoColor=FFF04D" alt="Ethers.js logo" title="Ethers.js" height="25" />][anchor_past]
+[<img src="https://img.shields.io/badge/Hardhat-282C34?logo=hardhat&logoColor=FFF04D" alt="Hardhat logo" title="Hardhat" height="25" />][anchor_past]
 &nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][anchor_past]
 &nbsp;
