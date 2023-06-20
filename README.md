@@ -88,6 +88,10 @@ I am a frontend developer:
 
 [<img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=002FA7&" alt="Solidity logo" title="Solidity" height="25" />][anchor_past]
 &nbsp;
+[<img src="https://img.shields.io/badge/Ethers.js-282C34?logo=ethersdotjs&logoColor=24339B" alt="Ethers.js logo" title="Ethers.js" height="25" />][anchor_past]
+&nbsp;
+[<img src="https://img.shields.io/badge/Hardhat-282C34?logo=hardhat&logoColor=FFF04D" alt="Ethers.js logo" title="Ethers.js" height="25" />][anchor_past]
+&nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][anchor_past]
 &nbsp;
 [<img src="https://img.shields.io/badge/Vitest-282C34?logo=vitest&logoColor=6E9F18" alt="Vitest logo" title="Vitest" height="25" />][anchor_past]
@@ -105,6 +109,10 @@ I am a frontend developer:
 
 ## 🤔 What I might take a look at in the future
 
+[<img src="https://img.shields.io/badge/Web3.js-282C34?logo=web3dotjs&logoColor=#F16822" alt="Web3.js logo" title="Web3.js" height="25" />][anchor_learning]
+&nbsp;
+[<img src="https://img.shields.io/badge/Wagmi-282C34?logo=wagmi&logoColor=02569B" alt="Wagmi logo" title="Wagmi" height="25" />][anchor_learning]
+&nbsp;
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][anchor_learning]
 &nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][anchor_learning]
