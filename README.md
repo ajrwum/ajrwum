@@ -8,7 +8,7 @@ I am a frontend developer:
 
 - 👯 I’m looking to collaborate on frontend projects, WEB2 anytime and WEB3 as soon as I'm able
 
-- 🌱 I’m currently learning WEB3 and Solidity
+- 🌱 I’m currently learning the Blockchain and Solidity
 
 - 🤔 I’m looking for help with articulating my super power
 
@@ -88,18 +88,24 @@ I am a frontend developer:
 
 [<img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=002FA7&" alt="Solidity logo" title="Solidity" height="25" />][anchor_past]
 &nbsp;
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][anchor_past]
+&nbsp;
+[<img src="https://img.shields.io/badge/Vitest-282C34?logo=vitest&logoColor=6E9F18" alt="Vitest logo" title="Vitest" height="25" />][anchor_past]
+&nbsp;
 [<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-282C34?logo=adobepremierepro&logoColor=9999FF" alt="Adobe Premiere Pro logo" title="Adobe Premiere Pro" height="25" />][anchor_past]
 &nbsp;
+
+<!-- [<img src="https://user-images.githubusercontent.com/67058118/178624116-4ebf3a1d-d294-4f96-ab6d-8e9b066144e2.svg" alt="Ethers logo" title="Ethers.js" height="16" />][anchor_past]
+&nbsp;
+[<img src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg" alt="Hardhat logo" title="Hardhat" height="16" />][anchor_past]
+[<img src="https://plugins.jetbrains.com/files/18551/349727/icon/pluginIcon.svg" alt="Hardhat logo" title="Hardhat" height="20" />][anchor_past]
+&nbsp; -->
 
 &nbsp;
 
 ## 🤔 What I might take a look at in the future
 
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][anchor_learning]
-&nbsp;
-[<img src="https://img.shields.io/badge/Vitest-282C34?logo=vitest&logoColor=6E9F18" alt="Vitest logo" title="Vitest" height="25" />][anchor_learning]
-&nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][anchor_learning]
 &nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][anchor_learning]
 &nbsp;
