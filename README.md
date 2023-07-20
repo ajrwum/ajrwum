@@ -6,9 +6,9 @@ My name is Anne.
 
 I am a frontend developer:
 
-- 👯 I’m looking to collaborate on frontend projects, WEB2 anytime and WEB3 as soon as I'm able
+- 👯 I’m looking to collaborate on frontend projects, [WEB2][anchor_current] anytime and [WEB3][anchor_learning] as soon as I'm able
 
-- 🌱 I’m currently learning the Blockchain and Solidity
+- 🌱 I’m currently learning the Blockchain and [Solidity][anchor_learning]
 
 - 🤔 I’m looking for help with articulating my super power
 
@@ -25,7 +25,7 @@ I am a frontend developer:
 
 &nbsp;
 
-<a name="once-used"></a>
+<a name="technos-current"></a>
 
 ## 🤪 Technologies and tools I'm crazy about
 
@@ -67,6 +67,8 @@ I am a frontend developer:
 
 &nbsp;
 
+<a name="technos-past"></a>
+
 ## 😏 What I used in the past but am less using right now
 
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />][anchor_top]
@@ -80,9 +82,9 @@ I am a frontend developer:
 [<img src="https://img.shields.io/badge/Arduino-282C34?logo=arduino&logoColor=00979D" alt="Arduino logo" title="Arduino" height="25" />][anchor_past]
 &nbsp;
 
-<a name="learning-interest"></a>
-
 &nbsp;
+
+<a name="technos-learning"></a>
 
 ## 😋 What I am currently learning
 
@@ -105,9 +107,9 @@ I am a frontend developer:
 [<img src="https://plugins.jetbrains.com/files/18551/349727/icon/pluginIcon.svg" alt="Hardhat logo" title="Hardhat" height="20" />][anchor_past]
 &nbsp; -->
 
-<a name="learning-future"></a>
-
 &nbsp;
+
+<a name="technos-future"></a>
 
 ## 🤔 What I might take a look at in the future
 
@@ -121,11 +123,15 @@ I am a frontend developer:
 &nbsp;
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][anchor_learning]
 &nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][anchor_test]
+<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />
 &nbsp;
 
+&nbsp;
+
+[Return to top][anchor_top]
+
 [anchor_top]: #top
-[anchor_past]: #once-used
-[anchor_learning]: #learning-interest
-[anchor_future]: #learning-future
-[anchor_test]: #-technologies-and-tools-im-crazy-about
+[anchor_current]: #technos-current
+[anchor_past]: #technos-past
+[anchor_learning]: #technos-learning
+[anchor_future]: #technos-future
