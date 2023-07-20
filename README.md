@@ -105,6 +105,8 @@ I am a frontend developer:
 [<img src="https://plugins.jetbrains.com/files/18551/349727/icon/pluginIcon.svg" alt="Hardhat logo" title="Hardhat" height="20" />][anchor_past]
 &nbsp; -->
 
+<a name="learning-future"></a>
+
 &nbsp;
 
 ## 🤔 What I might take a look at in the future
@@ -119,9 +121,11 @@ I am a frontend developer:
 &nbsp;
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][anchor_learning]
 &nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][anchor_learning]
+[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][anchor_test]
 &nbsp;
 
 [anchor_top]: #top
 [anchor_past]: #once-used
 [anchor_learning]: #learning-interest
+[anchor_future]: #learning-future
+[anchor_test]: #-what-i-might-take-a-look-at-in-the-future
