@@ -16,8 +16,6 @@ I am a frontend developer:
 
 - ⚡ Fun fact: This is the second time I am a developer in this lifetime
 
-<a name="once-used"></a>
-
 <!-- # All emojis to choose from
 🛠️🎯🤪😋
 🎯🙄😏
@@ -26,6 +24,8 @@ I am a frontend developer:
  -->
 
 &nbsp;
+
+<a name="once-used"></a>
 
 ## 🤪 Technologies and tools I'm crazy about
 
@@ -77,7 +77,7 @@ I am a frontend developer:
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][anchor_top]
 
-[<img src="https://img.shields.io/badge/Arduino-282C34?logo=arduino&logoColor=00979D" alt="Arduino logo" title="Arduino" height="25" />][anchor_top]
+[<img src="https://img.shields.io/badge/Arduino-282C34?logo=arduino&logoColor=00979D" alt="Arduino logo" title="Arduino" height="25" />][anchor_past]
 &nbsp;
 
 <a name="learning-interest"></a>
