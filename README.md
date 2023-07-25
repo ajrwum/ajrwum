@@ -101,12 +101,6 @@ I am a frontend developer:
 [<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-282C34?logo=adobepremierepro&logoColor=9999FF" alt="Adobe Premiere Pro logo" title="Adobe Premiere Pro" height="25" />][anchor_learning]
 &nbsp;
 
-<!-- [<img src="https://user-images.githubusercontent.com/67058118/178624116-4ebf3a1d-d294-4f96-ab6d-8e9b066144e2.svg" alt="Ethers logo" title="Ethers.js" height="16" />][anchor_learning]
-&nbsp;
-[<img src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg" alt="Hardhat logo" title="Hardhat" height="16" />][anchor_learning]
-[<img src="https://plugins.jetbrains.com/files/18551/349727/icon/pluginIcon.svg" alt="Hardhat logo" title="Hardhat" height="20" />][anchor_learning]
-&nbsp; -->
-
 &nbsp;
 
 <a name="technos-future"></a>
