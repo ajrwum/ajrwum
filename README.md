@@ -6,7 +6,7 @@ My name is Anne.
 
 I am a frontend developer:
 
-- 👯 I’m looking to collaborate on frontend projects, [WEB2][anchor_current] anytime and [WEB3][anchor_learning] as soon as I'm able
+- 👯 I’m looking to collaborate on frontend projects, [WEB2][anchor_current] anytime and [WEB3][anchor_learning] soon
 
 - 🌱 I’m currently learning the Blockchain and [Solidity][anchor_learning]
 
